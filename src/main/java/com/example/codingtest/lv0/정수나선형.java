@@ -1,6 +1,6 @@
-package com.example.codingtest.정수나선형;
+package com.example.codingtest.lv0;
 
-public class test {
+public class 정수나선형 {
     private static int[][] target;
     private static int currentNum;
     private static int input;
