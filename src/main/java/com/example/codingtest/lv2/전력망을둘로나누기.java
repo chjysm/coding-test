@@ -2,6 +2,7 @@ package com.example.codingtest.lv2;
 
 import java.util.*;
 
+// https://school.programmers.co.kr/learn/courses/30/lessons/86971
 public class 전력망을둘로나누기 {
 
     private static final Map<Integer,Integer> nodeCountMap = new HashMap<>();

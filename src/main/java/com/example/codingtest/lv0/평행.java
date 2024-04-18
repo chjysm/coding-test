@@ -1,6 +1,6 @@
 package com.example.codingtest.lv0;
 
-
+// https://school.programmers.co.kr/learn/courses/30/lessons/120875
 public class 평행 {
     public static void main(String[] args) {
 //        int[][] arr = {

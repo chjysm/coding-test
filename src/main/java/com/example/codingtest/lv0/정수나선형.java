@@ -1,5 +1,6 @@
 package com.example.codingtest.lv0;
 
+// https://school.programmers.co.kr/learn/courses/30/lessons/181832
 public class 정수나선형 {
     private static int[][] target;
     private static int currentNum;
