@@ -9,6 +9,7 @@ public class 달리기경주 {
 
     public static void main(String[] args) {
 
+        String[] answer = new String[players.length];
         HashMap<String, Integer> map = new HashMap<>();
         int i =0;
         for(String s:players){
@@ -25,6 +26,10 @@ public class 달리기경주 {
             map.put(s, index-1);
             map.put(s1,index);
         }
+
+        map.forEach( (k,v) -> {
+            answer[v] = k;
+        });
 
     }
 }
