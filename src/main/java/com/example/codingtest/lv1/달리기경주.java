@@ -16,7 +16,6 @@ public class 달리기경주 {
             map.put(s, i++);
         }
 
-
         for(String s : callings){
             Integer index = map.get(s);
             String s1 = players[index - 1];
